@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E SD" tvg-logo="http://srvlogo.07d994.co/cover/1/AE.png" group-title="Canais: Filmes e Séries",A&E SD
+http://srv.mtvs.me:80/s1UAEHfoip/xgep9qtuGw/28662
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://srvlogo.07d994.co/cover/1/AE.png" group-title="Canais: Filmes e Séries",A&E HD
+http://srv.mtvs.me:80/s1UAEHfoip/xgep9qtuGw/28661
+#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="http://srvlogo.07d994.co/cover/1/AE.png" group-title="Canais: Filmes e Séries",A&E FHD
+http://srv.mtvs.me:80/s1UAEHfoip/xgep9qtuGw/30890
